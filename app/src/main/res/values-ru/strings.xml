@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Игральная кость</string>
+    <string name="roll">Бросок</string>
+</resources>
