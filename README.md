@@ -1,6 +1,6 @@
 # 🔌Install Steps:
 
-### - 1. You can install from [release]()
+### - 1. You can install from [release](https://github.com/MrFrozzen/Diceroll/releases/tag/release)
 ### - 2. Unzip to any folder and run exe file 
 ### - 3. Click continue 
 ### - 4. Enjoy bro:)
